@@ -1,0 +1,25 @@
+The MusicPlayer object we start with isn't the same MusicPlayer object 
+throught all the scenes in the game. I think the first time we go back to the 
+scenes we are stopping ourselves from replaying the music again then start a new one.
+
+Level 01 - 37
+Level 02 - 47
+Level 03 - 53
+Level 04 - 62
+Level 05 - 70
+Level 06 - 83
+Level 07 - 99
+Level 08 - 109
+Level 09 - 113
+Level 10 - 
+
+version 1
+http://gamebucket.io/game/b6e0c956-70eb-4dd0-9160-088ed38a1688
+
+Version 2
+- Updated lives from 1 to 3
+- Updated the velcoity problems
+- Updated the brick's layout so that I increase the number of bricks more progressively
+
+http://gamebucket.io/game/435f065c-3c75-4c13-a8fa-a623ae052dac
+888-480-6710 - John - C18535
